@@ -1,0 +1,22 @@
+.site-background {
+  background-image: url("http://murphyshawaii.com/media/2014/04/murphys-front.jpg");
+  background-size: cover;
+  height: 500px;
+}
+
+.margins {
+  margin: 145px auto auto auto;
+}
+
+.footer {
+  background-color: #004030;
+  color: #FFF;
+  padding-top: 30px;
+  padding-bottom: 60px;
+}
+p {
+  padding-top: 40px;
+  color: #FFF;
+  text-align: center;
+  font-size: large;
+}
